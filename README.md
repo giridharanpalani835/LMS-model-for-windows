@@ -1,1 +1,1 @@
-# LMS-model-for-windows
+# LMS-model
